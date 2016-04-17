@@ -11,3 +11,5 @@ But switching context will copy the stack the coroutine used.
 Read source for detail.
 
 Chinese blog : http://blog.codingnow.com/2012/07/c_coroutine.html
+
+``读了一遍源码, 有些有疑问的地方, 待进一步读一下, 吼吼``
